@@ -1,0 +1,10 @@
+# Key Topics
+
+* spectral decomposition
+	* the property that any signal can be decomposed into a sum of sinusoids with different frequencies
+
+* Discrete Fourier Transform (DFT)
+	* the mathematical technique for extracting a signal's spectrum
+
+* Fast Fourier Transform (FFT)
+	* an efficient algorithm for computing the DFT of a signal
